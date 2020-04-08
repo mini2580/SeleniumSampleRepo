@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo-maven-project-test" duration-ms="45965" started-at="2020-03-30T16:44:21Z" finished-at="2020-03-30T16:45:07Z">
+    <groups>
+    </groups>
+    <test name="expedia-test" duration-ms="45965" started-at="2020-03-30T16:44:21Z" finished-at="2020-03-30T16:45:07Z">
+      <class name="testNG_TestCases.Flight_tab_test_case">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG_TestCases.Flight_tab_test_case@6e3c1e69]" name="beforeMethod" is-config="true" duration-ms="11448" started-at="2020-03-30T17:44:21Z" finished-at="2020-03-30T17:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_flight_tab()[pri:0, instance:testNG_TestCases.Flight_tab_test_case@6e3c1e69]" name="test_flight_tab" duration-ms="31576" started-at="2020-03-30T17:44:33Z" finished-at="2020-03-30T17:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_flight_tab -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG_TestCases.Flight_tab_test_case@6e3c1e69]" name="afterMethod" is-config="true" duration-ms="2926" started-at="2020-03-30T17:45:04Z" finished-at="2020-03-30T17:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testNG_TestCases.Flight_tab_test_case -->
+    </test> <!-- expedia-test -->
+  </suite> <!-- demo-maven-project-test -->
+</testng-results>
